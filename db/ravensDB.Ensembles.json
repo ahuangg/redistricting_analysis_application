@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "65583d6c8fe3bfb03dda6752"
+  },
+  "id": 1,
+  "ensembleName": "Ensemble1",
+  "numberOfPlans": 463,
+  "clusterIDs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "distanceMeasureResults": {
+    "avgDistanceBetweenPlanPairs": 0.7,
+    "results": {
+      "optimal Transport": {
+        "name": "Optimal Transport",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      },
+      "Hamming Distance": {
+        "name": "Hamming Distance",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      }
+    }
+  },
+  "ensembleClusterSizeAssociation": [
+    {
+      "ensembleSize": 50,
+      "clusterSize": 15
+    },
+    {
+      "ensembleSize": 100,
+      "clusterSize": 20
+    },
+    {
+      "ensembleSize": 200,
+      "clusterSize": 23
+    },
+    {
+      "ensembleSize": 300,
+      "clusterSize": 24
+    },
+    {
+      "ensembleSize": 463,
+      "clusterSize": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655e99949aaa5dc490940b7a"
+  },
+  "id": 2,
+  "ensembleName": "Ensemble2",
+  "numberOfPlans": 657,
+  "clusterIDs": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "distanceMeasureResults": {
+    "avgDistanceBetweenPlanPairs": 0.7,
+    "results": {
+      "optimal Transport": {
+        "name": "Optimal Transport",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      },
+      "Hamming Distance": {
+        "name": "Hamming Distance",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      }
+    }
+  },
+  "ensembleClusterSizeAssociation": [
+    {
+      "ensembleSize": 150,
+      "clusterSize": 5
+    },
+    {
+      "ensembleSize": 300,
+      "clusterSize": 15
+    },
+    {
+      "ensembleSize": 450,
+      "clusterSize": 20
+    },
+    {
+      "ensembleSize": 550,
+      "clusterSize": 29
+    },
+    {
+      "ensembleSize": 658,
+      "clusterSize": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655e9bb79aaa5dc490940d36"
+  },
+  "id": 3,
+  "ensembleName": "Ensemble3",
+  "numberOfPlans": 406,
+  "clusterIDs": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+  ],
+  "distanceMeasureResults": {
+    "avgDistanceBetweenPlanPairs": 0.7,
+    "results": {
+      "optimal Transport": {
+        "name": "Optimal Transport",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      },
+      "Hamming Distance": {
+        "name": "Hamming Distance",
+        "min": 0.1,
+        "max": 0.8,
+        "median": 0.5,
+        "q1": 0.2,
+        "q3": 0.7,
+        "avg": 0.6,
+        "avgComputationTime": 0.9,
+        "optimality": 0.8
+      }
+    }
+  },
+  "ensembleClusterSizeAssociation": [
+    {
+      "ensembleSize": 50,
+      "clusterSize": 5
+    },
+    {
+      "ensembleSize": 100,
+      "clusterSize": 15
+    },
+    {
+      "ensembleSize": 200,
+      "clusterSize": 20
+    },
+    {
+      "ensembleSize": 300,
+      "clusterSize": 23
+    },
+    {
+      "ensembleSize": 406,
+      "clusterSize": 20
+    }
+  ]
+}]

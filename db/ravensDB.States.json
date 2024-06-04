@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "65583c818fe3bfb03dda674b"
+  },
+  "stateName": "Pennsylvania",
+  "center": [
+    41.2732,
+    -77.8867
+  ],
+  "zoomLevel": 7,
+  "maxBounds": [
+    [
+      39.6,
+      -80.4
+    ],
+    [
+      42.6,
+      -74.4
+    ]
+  ],
+  "maxZoom": 11,
+  "stateBoundaryID": 3,
+  "defaultDistrictPlanID": 1528,
+  "ensembleIDs": [
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "65583cc78fe3bfb03dda674d"
+  },
+  "stateName": "Texas",
+  "center": [
+    30.2672,
+    -100.0431
+  ],
+  "zoomLevel": 6,
+  "maxBounds": [
+    [
+      25.6,
+      -106.6
+    ],
+    [
+      36.6,
+      -93.4
+    ]
+  ],
+  "maxZoom": 10,
+  "stateBoundaryID": 2,
+  "defaultDistrictPlanID": 1529,
+  "ensembleIDs": [
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "65583cf28fe3bfb03dda674f"
+  },
+  "stateName": "North Carolina",
+  "center": [
+    35.7796,
+    -79.8382
+  ],
+  "zoomLevel": 7,
+  "maxBounds": [
+    [
+      33.8,
+      -84.4
+    ],
+    [
+      36.6,
+      -75.4
+    ]
+  ],
+  "maxZoom": 11,
+  "stateBoundaryID": 1,
+  "defaultDistrictPlanID": 1527,
+  "ensembleIDs": [
+    3
+  ]
+}]

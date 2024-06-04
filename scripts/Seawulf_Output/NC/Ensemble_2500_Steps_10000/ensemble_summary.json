@@ -1,0 +1,118 @@
+{
+    "id": 1000,
+    "ensembleName": "NCEnsemble_2500_Steps_10000",
+    "numberOfPlans": 2500,
+    "clusterIds": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+    ],
+    "dateCreated": "12/15/2023, 10:35:10",
+    "distanceMeasureResults": {
+        "averageDistanceBetweenPlans": 0.585382198268725,
+        "Hamming Distance": {
+            "min": 0.0,
+            "Q1": 0.550621001129093,
+            "median": 0.5878810688746707,
+            "Q3": 0.6217538577342868,
+            "max": 1.0,
+            "average": 0.585382198268725,
+            "optimality": 1.0,
+            "timeToRun": 2061.058884859085
+        },
+        "Entropy Distance": {
+            "min": 0.0,
+            "Q1": 0.7546036570938897,
+            "median": 0.7863502192903646,
+            "Q3": 0.8165392793991959,
+            "max": 1.0,
+            "average": 0.7845054873830835,
+            "optimality": 0.6605416215050608,
+            "timeToRun": 4768.064600944519
+        }
+    },
+    "ensembleClusterSizeAssociation": [
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 125
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 250
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 375
+        },
+        {
+            "Number of clusters": 6,
+            "Ensemble size": 500
+        },
+        {
+            "Number of clusters": 6,
+            "Ensemble size": 625
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 750
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 875
+        },
+        {
+            "Number of clusters": 6,
+            "Ensemble size": 1000
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1125
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1250
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1375
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1500
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1625
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1750
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 1875
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 2000
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 2125
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 2250
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 2375
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 2500
+        }
+    ]
+}

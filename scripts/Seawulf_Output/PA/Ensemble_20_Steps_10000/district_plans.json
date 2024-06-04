@@ -1,0 +1,322 @@
+[
+    {
+        "id": 12000,
+        "name": "Ensemble_20_Steps_10000-0",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 10R | 7D",
+            "R": 10,
+            "D": 7,
+            "MDS_X": -0.2888638875460217,
+            "MDS_Y": -0.2761866401796617
+        },
+        "boundaryId": 12011
+    },
+    {
+        "id": 12001,
+        "name": "Ensemble_20_Steps_10000-1",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 0,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 10R | 7D",
+            "R": 10,
+            "D": 7,
+            "MDS_X": -0.509301585433139,
+            "MDS_Y": 0.14578940357971001
+        },
+        "boundaryId": 12000
+    },
+    {
+        "id": 12002,
+        "name": "Ensemble_20_Steps_10000-2",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": -0.17844205048111098,
+            "MDS_Y": -0.005996339793512395
+        },
+        "boundaryId": 12012
+    },
+    {
+        "id": 12003,
+        "name": "Ensemble_20_Steps_10000-3",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": -0.0223399319805226,
+            "MDS_Y": -0.5570429657008765
+        },
+        "boundaryId": 12003
+    },
+    {
+        "id": 12004,
+        "name": "Ensemble_20_Steps_10000-4",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 10R | 7D",
+            "R": 10,
+            "D": 7,
+            "MDS_X": 0.024333860209845605,
+            "MDS_Y": 0.5989296623122228
+        },
+        "boundaryId": 12016
+    },
+    {
+        "id": 12005,
+        "name": "Ensemble_20_Steps_10000-5",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 2,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": -0.5835800776366071,
+            "MDS_Y": -0.04343315223141117
+        },
+        "boundaryId": 12013
+    },
+    {
+        "id": 12006,
+        "name": "Ensemble_20_Steps_10000-6",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 2,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 10R | 7D",
+            "R": 10,
+            "D": 7,
+            "MDS_X": -0.4225038272937349,
+            "MDS_Y": 0.3656323780238768
+        },
+        "boundaryId": 12001
+    },
+    {
+        "id": 12007,
+        "name": "Ensemble_20_Steps_10000-7",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": -0.26976627527797364,
+            "MDS_Y": -0.5116384413132478
+        },
+        "boundaryId": 12014
+    },
+    {
+        "id": 12008,
+        "name": "Ensemble_20_Steps_10000-8",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": 0.24780507441199584,
+            "MDS_Y": -0.5673121204760903
+        },
+        "boundaryId": 12004
+    },
+    {
+        "id": 12009,
+        "name": "Ensemble_20_Steps_10000-9",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "9R | 8D",
+            "R/D Split Range": "9R | 8D - 9R | 8D",
+            "R": 9,
+            "D": 8,
+            "MDS_X": 0.2703329514835398,
+            "MDS_Y": -0.37335240700303335
+        },
+        "boundaryId": 12005
+    },
+    {
+        "id": 12010,
+        "name": "Ensemble_20_Steps_10000-10",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 0,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "12R | 5D",
+            "R/D Split Range": "12R | 5D - 12R | 5D",
+            "R": 12,
+            "D": 5,
+            "MDS_X": 0.07198605149758684,
+            "MDS_Y": -0.16592144313915252
+        },
+        "boundaryId": 12006
+    },
+    {
+        "id": 12011,
+        "name": "Ensemble_20_Steps_10000-11",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 2,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": 0.5250141544521468,
+            "MDS_Y": 0.2987538196879012
+        },
+        "boundaryId": 12007
+    },
+    {
+        "id": 12012,
+        "name": "Ensemble_20_Steps_10000-12",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": -0.5237498044290131,
+            "MDS_Y": -0.2878216117742981
+        },
+        "boundaryId": 12015
+    },
+    {
+        "id": 12013,
+        "name": "Ensemble_20_Steps_10000-13",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 10R | 7D",
+            "R": 10,
+            "D": 7,
+            "MDS_X": -0.0815693603711868,
+            "MDS_Y": 0.27229132705318065
+        },
+        "boundaryId": 12017
+    },
+    {
+        "id": 12014,
+        "name": "Ensemble_20_Steps_10000-14",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "12R | 5D",
+            "R/D Split Range": "12R | 5D - 12R | 5D",
+            "R": 12,
+            "D": 5,
+            "MDS_X": -0.2710250746742621,
+            "MDS_Y": 0.5265270536493765
+        },
+        "boundaryId": 12002
+    },
+    {
+        "id": 12015,
+        "name": "Ensemble_20_Steps_10000-15",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 0,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": 0.29886104259253615,
+            "MDS_Y": 0.488542398517102
+        },
+        "boundaryId": 12018
+    },
+    {
+        "id": 12016,
+        "name": "Ensemble_20_Steps_10000-16",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 1,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": 0.34966744479777145,
+            "MDS_Y": -0.040838972063995824
+        },
+        "boundaryId": 12008
+    },
+    {
+        "id": 12017,
+        "name": "Ensemble_20_Steps_10000-17",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 2,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "9R | 8D",
+            "R/D Split Range": "9R | 8D - 9R | 8D",
+            "R": 9,
+            "D": 8,
+            "MDS_X": 0.21526482256063773,
+            "MDS_Y": 0.3176537212715028
+        },
+        "boundaryId": 12019
+    },
+    {
+        "id": 12018,
+        "name": "Ensemble_20_Steps_10000-18",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 2,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "8R | 9D",
+            "R/D Split Range": "8R | 9D - 8R | 9D",
+            "R": 8,
+            "D": 9,
+            "MDS_X": 0.5646596235024232,
+            "MDS_Y": -0.2512236125034502
+        },
+        "boundaryId": 12009
+    },
+    {
+        "id": 12019,
+        "name": "Ensemble_20_Steps_10000-19",
+        "availability": true,
+        "measureData": {
+            "Opportunity districts for black(>37.0%)": 0,
+            "Opportunity districts for hispanic(>37.0%)": 0,
+            "R/D Split": "11R | 6D",
+            "R/D Split Range": "11R | 6D - 11R | 6D",
+            "R": 11,
+            "D": 6,
+            "MDS_X": 0.5832168496150886,
+            "MDS_Y": 0.06664794208385723
+        },
+        "boundaryId": 12010
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "id": 210000,
+    "ensembleName": "TXEnsemble_20_Steps_10000",
+    "numberOfPlans": 20,
+    "clusterIds": [
+        210000,
+        210001,
+        210002,
+        210003,
+        210004
+    ],
+    "dateCreated": "12/18/2023, 18:21:29",
+    "distanceMeasureResults": {
+        "averageDistanceBetweenPlans": 0.8189516350645782,
+        "Hamming Distance": {
+            "min": 0.0,
+            "Q1": 0.8352225886232482,
+            "median": 0.8584089035449299,
+            "Q3": 0.8834157735641659,
+            "max": 1.0,
+            "average": 0.8189516350645782,
+            "optimality": 1.0,
+            "timeToRun": 4.651034832000732
+        },
+        "Entropy Distance": {
+            "min": 0.0,
+            "Q1": 0.908138124393345,
+            "median": 0.928560576269186,
+            "Q3": 0.9514598849727641,
+            "max": 1.0,
+            "average": 0.8841894630181675,
+            "optimality": 0.994454910784377,
+            "timeToRun": 6.0354766845703125
+        }
+    },
+    "ensembleClusterSizeAssociation": [
+        {
+            "Number of clusters": 2,
+            "Ensemble size": 2
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 4
+        },
+        {
+            "Number of clusters": 5,
+            "Ensemble size": 6
+        },
+        {
+            "Number of clusters": 3,
+            "Ensemble size": 8
+        },
+        {
+            "Number of clusters": 3,
+            "Ensemble size": 10
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 12
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 14
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 16
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 18
+        },
+        {
+            "Number of clusters": 4,
+            "Ensemble size": 20
+        }
+    ]
+}

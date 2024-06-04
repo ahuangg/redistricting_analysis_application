@@ -1,0 +1,107 @@
+[
+    {
+        "clusterId": 12000,
+        "clusterName": "Ensemble_20_Steps_10000-Cluster-0",
+        "numberOfPlans": 4,
+        "districtPlanIds": [
+            12001,
+            12006,
+            12013,
+            12014
+        ],
+        "measureData": {
+            "Median R/D Split": "10R | 7D",
+            "R/D Split Range": "10R | 7D - 12R | 5D",
+            "MDS_X": -0.3210999619430807,
+            "MDS_Y": 0.327560040576536,
+            "Opportunity districts for black(>37.0%)(avg)": 1.0,
+            "Opportunity districts for hispanic(>37.0%)(avg)": 0.0
+        },
+        "averageDistanceBetweenPlans": 0.5870736086175943,
+        "typicalPlan": 12014
+    },
+    {
+        "clusterId": 12001,
+        "clusterName": "Ensemble_20_Steps_10000-Cluster-1",
+        "numberOfPlans": 4,
+        "districtPlanIds": [
+            12003,
+            12008,
+            12009,
+            12010
+        ],
+        "measureData": {
+            "Median R/D Split": "11R | 6D",
+            "R/D Split Range": "9R | 8D - 12R | 5D",
+            "MDS_X": 0.14194603635314998,
+            "MDS_Y": -0.4159072340797882,
+            "Opportunity districts for black(>37.0%)(avg)": 0.75,
+            "Opportunity districts for hispanic(>37.0%)(avg)": 0.0
+        },
+        "averageDistanceBetweenPlans": 0.5938924181742853,
+        "typicalPlan": 12009
+    },
+    {
+        "clusterId": 12002,
+        "clusterName": "Ensemble_20_Steps_10000-Cluster-2",
+        "numberOfPlans": 4,
+        "districtPlanIds": [
+            12011,
+            12016,
+            12018,
+            12019
+        ],
+        "measureData": {
+            "Median R/D Split": "11R | 6D",
+            "R/D Split Range": "8R | 9D - 11R | 6D",
+            "MDS_X": 0.5056395180918575,
+            "MDS_Y": 0.018334794301078098,
+            "Opportunity districts for black(>37.0%)(avg)": 1.25,
+            "Opportunity districts for hispanic(>37.0%)(avg)": 0.0
+        },
+        "averageDistanceBetweenPlans": 0.5996927219997238,
+        "typicalPlan": 12011
+    },
+    {
+        "clusterId": 12003,
+        "clusterName": "Ensemble_20_Steps_10000-Cluster-3",
+        "numberOfPlans": 5,
+        "districtPlanIds": [
+            12000,
+            12002,
+            12005,
+            12007,
+            12012
+        ],
+        "measureData": {
+            "Median R/D Split": "11R | 6D",
+            "R/D Split Range": "10R | 7D - 11R | 6D",
+            "MDS_X": -0.3688804190741453,
+            "MDS_Y": -0.22501523705842624,
+            "Opportunity districts for black(>37.0%)(avg)": 1.2,
+            "Opportunity districts for hispanic(>37.0%)(avg)": 0.0
+        },
+        "averageDistanceBetweenPlans": 0.6108327579063665,
+        "typicalPlan": 12000
+    },
+    {
+        "clusterId": 12004,
+        "clusterName": "Ensemble_20_Steps_10000-Cluster-4",
+        "numberOfPlans": 3,
+        "districtPlanIds": [
+            12004,
+            12015,
+            12017
+        ],
+        "measureData": {
+            "Median R/D Split": "10R | 7D",
+            "R/D Split Range": "9R | 8D - 11R | 6D",
+            "MDS_X": 0.1794865751210065,
+            "MDS_Y": 0.46837526070027585,
+            "Opportunity districts for black(>37.0%)(avg)": 1.0,
+            "Opportunity districts for hispanic(>37.0%)(avg)": 0.0
+        },
+        "averageDistanceBetweenPlans": 0.4526385244518099,
+        "typicalPlan": 12004
+    }
+]
